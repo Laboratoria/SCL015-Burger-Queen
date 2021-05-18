@@ -1,0 +1,99 @@
+    {
+	"bebestible": [
+    {
+		"id": 1,
+		"producto": "Bebida",
+		"precio": "$1.000.-",
+		"img": "bebida.png"
+    },  
+    {
+        "id": 2,
+        "producto": "jugo",
+        "precio": "$1.500.-",
+        "img": "jugo.png"
+    },
+    {
+        "id": 3,
+        "producto": "Té",
+        "precio": "$590.-",
+        "img": "te.png"
+    },
+    {
+        "id": 4,
+        "producto": "Café",
+        "precio": "$1.500.-",
+        "img": "cafe.png"
+    }
+],
+
+"hamburguesas" : [
+    {
+        "id": 5,
+        "producto": "QuesoAZ",
+        "precio": "$3.000.-",
+        "img": "quesoaz.png"
+    },
+    {
+        "id": 6,
+        "producto": "BigMamá",
+        "precio": "$3.900.-",
+        "img": "bigmama.png"
+    },
+    {
+        "id": 7,
+        "producto": "PolloBur",
+        "precio": "$2.500.-",
+        "img": "pollobur.png"
+    },
+    {
+        "id": 8,
+        "producto": "DobleBur",
+        "precio": "$2.500.-",
+        "img": "doblebur.png"
+    }
+
+],
+"agregados" : [
+    {
+        "id": 9,
+        "producto": "Papas Fritas",
+        "precio": "$1.900.-",
+        "img": "papasfirtas.png"
+    },
+    {
+        "id": 10,
+        "producto": "Empanadas",
+        "precio": "$1.900.-",
+        "img": "empanadas.png"
+    },
+    {
+        "id": 11,
+        "producto": "Nuggets",
+        "precio": "$1.900.-",
+        "img": "nuggets.png"
+    },
+    {
+        "id": 12,
+        "producto": "Helado",
+        "precio": "$900.-",
+        "img": "helado.png"
+    }
+],
+"vegetariano": [
+    {
+        "id": 13,
+        "producto": "Ensalada",
+        "precio": "$2.900.-",
+        "img": "ensalada.png"
+    },
+    {
+        "id": 14,
+        "producto": "TacoVegan",
+        "precio": "$1.900.-",
+        "img": "tacovegan.png"
+    }
+
+]
+
+
+    }
