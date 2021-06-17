@@ -1,0 +1,16 @@
+@font-face{
+    font-family: Crumble;
+    src: url(../Fonts/DK\ Crayon\ Crumble.ttf);
+}
+
+.botonprueba {
+   background-color: aqua;
+   background-image: url(../img/bebida.png);
+   
+}
+
+.frase{
+    font-family: Crumble;
+    background-color: brown;
+
+}
